@@ -41,15 +41,12 @@ if anything happens, you yourself will be responsible for it.
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 ![Python Powered Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonpoweredlengthgif.gif)
 
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/imdarkcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arifasdaullah" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/imdarkcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-asadullah-a1930913a" height="30" width="40" /></a>
+<a href="https://instagram.com/imdarkcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arif_asadullah" height="30" width="40" /></a>
+</p>
 
 [youtube]: https://www.youtube.com/channel/UCn6rJnrjdETlODG38BecyGA
 [instagram]: https://instagram.com/imdarkcoder
