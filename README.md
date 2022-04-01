@@ -29,6 +29,7 @@ Note: it takes several minutes for GitHub to reindex your activity.
 Note: This script doesn't encourage you to cheat. Cheating is bad. 
 ## Disclaimer
 This Script is only for Education and Knowledge Purposes.
+if anything happens, you yourself will be responsible for it.
 
 
 
